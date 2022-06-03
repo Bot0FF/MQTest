@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="com.ibm.mq.headers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.headers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.jmqi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.commonservices.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.defaultconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.axis2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/bcprov-jdk15on-157.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.allclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/bcpkix-jdk15on-157.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.pcf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.jms.Nojndi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.postcard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.soap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.tools.ras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.traceControl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mqjms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/fscontext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/providerutil.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.jmqi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ/java/lib/com.ibm.mq.allclient.jar!/" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
